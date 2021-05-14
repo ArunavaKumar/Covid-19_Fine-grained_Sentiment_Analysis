@@ -55,3 +55,6 @@ I calculated the sentiment polarity of each cleaned and pre-processed tweet usin
 ### Acknowledgements
 
 I wouldn't be here without the help of my project guide **Dr. Anup Kumar Kolya**, *Assistant Professor*, *Dept of Computer Science and Engineering*, *RCCIIT* whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing these datasets. If you owe any attributions or thanks, include him here along with any citations of past research.
+
+
+#### - By Arunava Kumar Chakraborty
