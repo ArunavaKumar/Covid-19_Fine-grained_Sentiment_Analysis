@@ -1,7 +1,7 @@
 # Covid-19 Tweets Dataset
 
 
-## Sentiment Analysis on Covid-19 Twitter Dataset using NLP and Deep Learning
+## Sentiment Analysis on Large-Scale Covid-19 Tweets using NLP and Deep Learning
 
 
 
