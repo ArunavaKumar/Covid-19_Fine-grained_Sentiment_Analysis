@@ -2,9 +2,10 @@
 
 
 
+
 ### Important Note
 
-#### Use Winrar or any rar extractor to extract the rar file containing the First and Second phased datasets with pre-processed and sentiment rated tweets. 
+#### Please use Winrar or any rar extractor to extract the rar file containing the First and Second phased datasets with pre-processed and sentiment rated tweets. 
 
 
 ### Data Collection
