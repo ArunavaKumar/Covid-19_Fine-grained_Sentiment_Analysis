@@ -2,6 +2,11 @@
 
 
 
+### Important Note
+
+####Use Winrar or any rar extractor to extract the rar file containing the First and Second phased datasets with pre-processed and sentiment rated tweets. 
+
+
 ### Data Collection
 
 I streamed live tweets from the twitter after WHO declared Covid-19 as a pandemic. Since this Covid-19 epidemic has affected the entire world, I collected worldwide Covid-19 related English tweets at a rate of almost 10k per day in two phases starting from **April-June, 2020** and **August-October, 2020**. I prepared the first phase dataset of about **235k** tweets collected from **19th April to 20th June, 2020**. After one month I again start collecting tweets from the twitter as on that time the pandemic was spreading with its fatal intensity. I collected almost **320k** tweets in the period **August 20 to October 20, 2020** for the second phase dataset.
