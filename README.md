@@ -57,4 +57,9 @@ I calculated the sentiment polarity of each cleaned and pre-processed tweet usin
 I wouldn't be here without the help of my project guide **Dr. Anup Kumar Kolya**, *Assistant Professor*, *Dept of Computer Science and Engineering*, *RCCIIT* whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing these datasets. If you owe any attributions or thanks, include him here along with any citations of past research.
 
 
+This dataset is part of the publication entitled:
+
+**Chakraborty A.K., Das S., Kolya A.K. (2021) Sentiment Analysis of Covid-19 Tweets Using Evolutionary Classification-Based LSTM Model. In: Pan I., Mukherjee A., Piuri V. (eds) Proceedings of Research and Applications in Artificial Intelligence. Advances in Intelligent Systems and Computing, vol 1355. Springer, Singapore. https://doi.org/10.1007/978-981-16-1543-6_7**
+
+
 #### - By Arunava Kumar Chakraborty
