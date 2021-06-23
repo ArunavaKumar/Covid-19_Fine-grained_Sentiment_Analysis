@@ -1,7 +1,7 @@
-# Covid-19 Tweets Dataset
+# Covid-19 Sentiment Analysis on Large-Scale Covid-19 Tweets using NLP and Deep Learning
 
 
-## Sentiment Analysis on Large-Scale Covid-19 Tweets using NLP and Deep Learning
+## Sentiment Analysis on Large-Scale Covid-19 Tweets using Hybrid Convolutional LSTM Based on Naïve Bayes Sentiment Modelling
 
 
 
@@ -60,6 +60,36 @@ I wouldn't be here without the help of my project guide **Dr. Anup Kumar Kolya**
 The first phase dataset (Covid-19 Dataset I) is part of the publication entitled:
 
 **Chakraborty A.K., Das S., Kolya A.K. (2021) Sentiment Analysis of Covid-19 Tweets Using Evolutionary Classification-Based LSTM Model. In: Pan I., Mukherjee A., Piuri V. (eds) Proceedings of Research and Applications in Artificial Intelligence. Advances in Intelligent Systems and Computing, vol 1355. Springer, Singapore. https://doi.org/10.1007/978-981-16-1543-6_7**
+
+
+### Experimental Setup
+
+This project was done with the following experimental setup:
+
+⦁ Hardware Configuration
+  - Processor: Intel Core i7-10750H
+  - RAM: 16GB
+  - SSD: 1TB
+  - GPU: Nvidia RTX 2060 6GB
+  - Operating System: Windows 10 Home Edition
+
+⦁ Software Configuration
+  - Programming Language: Python (3.7.3)
+  - Application: Anaconda, MS Visual Studio Code, Notepad++
+  - GPU Application: Nvidia Graphics Driver, Nvidia CUDA Toolkit, Nvidia cuDNN
+  - Web Browser: Microsoft Edge, Google Chrome, Mozilla Firefox
+  - Web Server: Google Colaboratory, IBM Watson Studio
+
+
+### Important Note
+
+In this repository I provided the Covid-19 datasets (both Phase I and Phase II) along with all the important source codes and respective outputs for my entire project work. The repository contains-
+- The Covid-19 datasets (both Phase I and Phase II) in rar format.
+- The python file **TweetStream.py** can be used for featching live tweets on Covid-19 as well as on any topic.
+- In the **Covid-19 Sentiment Analysis v2.0** directory, I have presented my through experimentation on a sample Covid-19 dataset (Simmilar as the main datasets).
+- In the **Oprimized Outputs** directory, I have presented all the outputs ffrom the experimentation on both of the Covid-19 datasets.
+
+⦁ *Please use WinRar or any other Rar extracting softeare to extract the files for the datasets. The MS Visual Studio Code or Notepad++ can be used to open the source codes for better visibility.*
 
 
 #### - By Arunava Kumar Chakraborty
