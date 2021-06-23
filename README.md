@@ -52,16 +52,6 @@ I calculated the sentiment polarity of each cleaned and pre-processed tweet usin
 8. *end*
 
 
-### Acknowledgements
-
-I wouldn't be here without the help of my project guide **Dr. Anup Kumar Kolya**, *Assistant Professor*, *Dept of Computer Science and Engineering*, *RCCIIT* whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing these datasets. If you owe any attributions or thanks, include him here along with any citations of past research.
-
-
-The first phase dataset (Covid-19 Dataset I) is part of the publication entitled:
-
-**Chakraborty A.K., Das S., Kolya A.K. (2021) Sentiment Analysis of Covid-19 Tweets Using Evolutionary Classification-Based LSTM Model. In: Pan I., Mukherjee A., Piuri V. (eds) Proceedings of Research and Applications in Artificial Intelligence. Advances in Intelligent Systems and Computing, vol 1355. Springer, Singapore. https://doi.org/10.1007/978-981-16-1543-6_7**
-
-
 ### Experimental Setup
 
 This project was done with the following experimental setup:
@@ -84,6 +74,16 @@ In this repository I provided the Covid-19 datasets (both Phase I and Phase II) 
 - In the **Oprimized Outputs** directory, I have presented all the outputs ffrom the experimentation on both of the Covid-19 datasets.
 
 *Please use WinRar or any other Rar extracting softeare to extract the files for the datasets. The MS Visual Studio Code or Notepad++ can be used to open the source codes for better visibility.*
+
+
+### Acknowledgements
+
+I wouldn't be here without the help of my project guide **Dr. Anup Kumar Kolya**, *Assistant Professor*, *Dept of Computer Science and Engineering*, *RCCIIT* whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing these datasets. If you owe any attributions or thanks, include him here along with any citations of past research.
+
+
+The first phase dataset (Covid-19 Dataset I) is part of the publication entitled:
+
+**Chakraborty A.K., Das S., Kolya A.K. (2021) Sentiment Analysis of Covid-19 Tweets Using Evolutionary Classification-Based LSTM Model. In: Pan I., Mukherjee A., Piuri V. (eds) Proceedings of Research and Applications in Artificial Intelligence. Advances in Intelligent Systems and Computing, vol 1355. Springer, Singapore. https://doi.org/10.1007/978-981-16-1543-6_7**
 
 
 #### - By Arunava Kumar Chakraborty
