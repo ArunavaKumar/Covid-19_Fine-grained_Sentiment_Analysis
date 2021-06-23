@@ -67,18 +67,18 @@ The first phase dataset (Covid-19 Dataset I) is part of the publication entitled
 This project was done with the following experimental setup:
 
 ⦁ Hardware Configuration
-  - Processor: Intel Core i7-10750H
-  - RAM: 16GB
-  - SSD: 1TB
-  - GPU: Nvidia RTX 2060 6GB
-  - Operating System: Windows 10 Home Edition
+    Processor: Intel Core i7-10750H
+    RAM: 16GB
+    SSD: 1TB
+    GPU: Nvidia RTX 2060 6GB
+    Operating System: Windows 10 Home Edition
 
 ⦁ Software Configuration
-  - Programming Language: Python (3.7.3)
-  - Application: Anaconda, MS Visual Studio Code, Notepad++
-  - GPU Application: Nvidia Graphics Driver, Nvidia CUDA Toolkit, Nvidia cuDNN
-  - Web Browser: Microsoft Edge, Google Chrome, Mozilla Firefox
-  - Web Server: Google Colaboratory, IBM Watson Studio
+    Programming Language: Python (3.7.3)
+    Application: Anaconda, MS Visual Studio Code, Notepad++
+    GPU Application: Nvidia Graphics Driver, Nvidia CUDA Toolkit, Nvidia cuDNN
+    Web Browser: Microsoft Edge, Google Chrome, Mozilla Firefox
+    Web Server: Google Colaboratory, IBM Watson Studio
 
 
 ### Important Note
