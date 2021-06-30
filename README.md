@@ -80,8 +80,8 @@ In this repository I provided the Covid-19 datasets (both Phase I and Phase II) 
 
 ### Acknowledgements
 
-I would like to express humbly my absolute amenity and heartfelt gratitude to my respected guide **Dr. Anup Kumar Kolya**, Assistant Professor, Dept. of Computer Science and Engineering, RCCIIT whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing this Project Paper.
-In accordance with that, I would like to express humbly my absolute amenity and reverence to respected **Mr. Sourav Das**, Assistant Professor, Dept. of Computer Science & Engineering, Future Institute of Technology for guiding and mentoring me on and off throughout my thesis work. 
+- I would like to express humbly my absolute amenity and heartfelt gratitude to my respected guide **Dr. Anup Kumar Kolya**, Assistant Professor, Dept. of Computer Science and Engineering, RCCIIT whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing this Project Paper.
+- In accordance with that, I would like to express humbly my absolute amenity and reverence to respected **Mr. Sourav Das**, Assistant Professor, Dept. of Computer Science & Engineering, Future Institute of Technology for guiding and mentoring me on and off throughout my thesis work. 
 
 
 The first phase dataset (Covid-19 Dataset I) is part of the publication entitled:
