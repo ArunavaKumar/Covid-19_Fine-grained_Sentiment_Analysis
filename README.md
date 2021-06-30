@@ -41,16 +41,16 @@ I streamed live tweets from the twitter after WHO declared Covid-19 as a pandemi
 #### Content
 
 The datasets I developed contains the important information about most of the tweets as their attributes. The main attributes of both of these datasets are: 
-- **Tweet ID**
-- **Creation Date & Time**
-- **Source Link**
-- **Original Tweet**
-- **Favorite Count**
-- **Retweet Count**
-- **Original Author**
-- **Hashtags**
-- **User Mentions**
-- **Place**
+- Tweet ID
+- Creation Date & Time
+- Source Link
+- Original Tweet
+- Favorite Count
+- Retweet Count
+- Original Author
+- Hashtags
+- User Mentions
+- Place
 
 Finally, I collected **2,35,240** tweets for first phase dataset and **3,20,316** tweets for second phase dataset containing the hash-tagged keywords like - ***#covid-19***, ***#coronavirus***, ***#covid***, ***#covaccine***, ***#lockdown***, ***#homequarantine***, ***#quarantinecenter***, ***#socialdistancing***, ***#stayhome***, ***#staysafe*** etc. Here I represented an overview of the collected dataset.
 
