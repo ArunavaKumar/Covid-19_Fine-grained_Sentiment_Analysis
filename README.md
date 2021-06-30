@@ -70,15 +70,18 @@ This project was done with the following experimental setup:
 In this repository I provided the Covid-19 datasets (both Phase I and Phase II) along with all the important source codes and respective outputs for my entire project work. The repository contains-
 - The Covid-19 datasets (both Phase I and Phase II) in rar format.
 - The python file **TweetStream.py** can be used for featching live tweets on Covid-19 as well as on any topic.
-- In the **Covid-19 Sentiment Analysis v2.0** directory, I have presented my through experimentation on a sample Covid-19 dataset (Simmilar as the main datasets).
-- In the **Oprimized Outputs** directory, I have presented all the outputs ffrom the experimentation on both of the Covid-19 datasets.
+- In the **Covid-19 Sentiment Analysis v2.0** directory, I presented my through experimentation on a sample Covid-19 dataset (Simmilar as the main datasets).
+- In the **Oprimized Outputs** directory, I presented all the outputs from the experimentation on both of the Covid-19 datasets.
+- In the **Final Thesis** directory, I presented my entire thesis work.
+- In the **Presentation** directory, I presented my ppt presentation regarding my thesis work.
 
 *Please use WinRar or any other Rar extracting softeare to extract the files for the datasets. The MS Visual Studio Code or Notepad++ can be used to open the source codes for better visibility.*
 
 
 ### Acknowledgements
 
-I wouldn't be here without the help of my project guide **Dr. Anup Kumar Kolya**, *Assistant Professor*, *Dept of Computer Science and Engineering*, *RCCIIT* whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing these datasets. If you owe any attributions or thanks, include him here along with any citations of past research.
+I would like to express humbly my absolute amenity and heartfelt gratitude to my respected guide **Dr. Anup Kumar Kolya**, Assistant Professor, Dept. of Computer Science and Engineering, RCCIIT whose kind and valuable suggestions and excellent guidance enlightened to give me the best opportunity in preparing this Project Paper.
+In accordance with that, I would like to express humbly my absolute amenity and reverence to respected **Mr. Sourav Das**, Assistant Professor, Dept. of Computer Science & Engineering, Future Institute of Technology for guiding and mentoring me on and off throughout my thesis work. 
 
 
 The first phase dataset (Covid-19 Dataset I) is part of the publication entitled:
