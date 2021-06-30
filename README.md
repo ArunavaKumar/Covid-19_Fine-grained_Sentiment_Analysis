@@ -6,6 +6,28 @@
 
 
 
+### Abstract of the Work:
+
+The millions of live affected rapidly throughout the world when the Covid-19 outbreaks and spreads by leaps and bound. During this catastrophic period, the people used to express their condolence as well as heartfelt emotions through different social networks. Now to analyze the reactions of people on Twitter we developed an experimental approach taking into account the popular words either directly or indirectly based on this pandemic. In this paper, we presented various NLP based research works on sentiment analysis, trend prediction, topic modelling, learning mechanisms etc. We proposed deep learning-based hybrid models to predict the sentiment on collected large number of tweets on Coronavirus or Covid-19. To analyze the public sentiment trend on the topics related to Covid-19 we apply an evolutionary classification followed by the n-gram analysis. Then we assign the Relevance-Occurrence ratings on collected tweets based on their sentiment class. We trained both Convo-Sequential and Convo-Bidirectional long-short term network using two types of rated tweets to predict sentiment on Covid-19 data. Finally, our proposed Convo-Sequential and Convo-Bidirectional LSTM models achieve 95.61% and 95.81% of validation accuracy respectively for first phase dataset whereas on the second phase dataset the models obtained the validation accuracy as 95.53% and 95.75% respectively. To ensure the consistency of these models, we train these models with different public corpora to compare the results with previous benchmark experiments based on their prediction accuracy. With this work, we aim to bridge our contribution with that of some concerning works to gain a better sentiment scenario from the web.
+
+### Workflow of the Project:
+
+    i. Data Collection & Preprocessing,
+
+        ii. Feature I - Word Trend Detection using N-Gram Analysis,
+    
+            iii. Feature II - Covid-19 Specific Word Identification,
+        
+                iv. NLTK-based Sentiment Analysis & Classification,
+            
+                    v. Naïve Bayes Sentiment Model Development,
+                
+                        vi. Global Sentiment Trend Analysis.
+                
+                            vii. Sentiment Modelling using Hybrid Convolutional LSTM
+                            
+                                 Viii. Comparative Performance Analysis
+                                 
 ### Important Note
 
 #### Please use Winrar or any rar extractor to extract these rar files containing the First and Second phased datasets with pre-processed and sentiment rated tweets. 
@@ -16,7 +38,7 @@
 I streamed live tweets from the twitter after WHO declared Covid-19 as a pandemic. Since this Covid-19 epidemic has affected the entire world, I collected worldwide Covid-19 related English tweets at a rate of almost 10k per day in two phases starting from **April-June, 2020** and **August-October, 2020**. I prepared the first phase dataset of about **235k** tweets collected from **19th April to 20th June, 2020**. After one month I again start collecting tweets from the twitter as on that time the pandemic was spreading with its fatal intensity. I collected almost **320k** tweets in the period **August 20 to October 20, 2020** for the second phase dataset.
 
 
-### Content
+#### Content
 
 The datasets I developed contains the important information about most of the tweets as their attributes. The main attributes of both of these datasets are: 
 - **Tweet ID**
@@ -33,11 +55,11 @@ The datasets I developed contains the important information about most of the tw
 Finally, I collected **2,35,240** tweets for first phase dataset and **3,20,316** tweets for second phase dataset containing the hash-tagged keywords like - ***#covid-19***, ***#coronavirus***, ***#covid***, ***#covaccine***, ***#lockdown***, ***#homequarantine***, ***#quarantinecenter***, ***#socialdistancing***, ***#stayhome***, ***#staysafe*** etc. Here I represented an overview of the collected dataset.
 
 
-### Data Pre-Processing
+#### Data Pre-Processing
 
 I pre-processed these collected data by developing a user defined pre-processing function based on NLTK (Natural Language Toolkit, a Python library for NLP). In the first phase it converts all the tweets into lower case. Then it removes all extra white spaces, numbers, special characters, ASCII characters, URLs, punctuations & stop words from the tweets. Then it converts all ‘covid’ words into ‘covid19’ as we already removed all numbers from the tweets. Using stemming the pre-processing function has reduced inflected words to their word stem.
 
-### Sentiment Analysis
+#### Sentiment Analysis
 
 I calculated the sentiment polarity of each cleaned and pre-processed tweet using the NLTK based Sentiment Analyzer and get the sentiment scores for positive, negative and neutral categories to calculate the compound sentiment score for each tweet. I classified the tweets on the basis of the compound sentiment scores into three different classes i.e., Positive, Negative and Neutral. Then we assigned the sentiment polarity ratings for each tweet based on the following algorithm-
 
