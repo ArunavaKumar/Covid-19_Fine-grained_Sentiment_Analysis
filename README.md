@@ -94,7 +94,7 @@ In this repository I provided the Covid-19 datasets (both Phase I and Phase II) 
 - The python file **TweetStream.py** can be used for featching live tweets on Covid-19 as well as on any topic.
 - In the **Covid-19 Sentiment Analysis v2.0** directory, I presented my through experimentation on a sample Covid-19 dataset (Simmilar as the main datasets).
 - In the **Oprimized Outputs** directory, I presented all the outputs from the experimentation on both of the Covid-19 datasets.
-- In the **Final Thesis** directory, I presented my entire thesis work.
+- In the **Thesis** directory, I presented my entire thesis work.
 - In the **Presentation** directory, I presented the ppt presentation regarding my thesis work.
 
 *Please use WinRar or any other Rar extracting softeare to extract the files for the datasets. The MS Visual Studio Code or Notepad++ can be used to open the source codes for better visibility.*
