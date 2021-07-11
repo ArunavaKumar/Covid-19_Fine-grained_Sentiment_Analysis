@@ -1,7 +1,7 @@
 # Covid-19 Sentiment Analysis on Large-Scale Covid-19 Tweets using NLP and Deep Learning
 
 
-## Sentiment Analysis on Large-Scale Covid-19 Tweets using Hybrid Convolutional LSTM Based on Naïve Bayes Sentiment Modelling
+## Sentiment Analysis on Large-Scale Covid-19 Tweets using Hybrid Convolutional LSTM Based on Naïve Bayes Sentiment Modeling
 
 
 
@@ -24,7 +24,7 @@ The millions of live affected rapidly throughout the world when the Covid-19 out
                 
                         vi. Global Sentiment Trend Analysis.
                 
-                            vii. Sentiment Modelling using Hybrid Convolutional LSTM
+                            vii. Sentiment Modeling using Hybrid Convolutional LSTM
                             
                                  Viii. Comparative Performance Analysis
                                  
