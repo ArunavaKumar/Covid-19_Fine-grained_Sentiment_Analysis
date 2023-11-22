@@ -3,11 +3,11 @@
 ## Fine-grained Sentiment Analysis on Large-Scale Covid-19 Tweets using Hybrid Convolutional LSTM Based on Naïve Bayes Sentiment Modeling
 
 
-### Abstract of the Work:
+### Abstract
 
 Millions of lives were affected rapidly throughout the world when the Covid-19 outbreak spread by leaps and bounds. During this catastrophic period, people used to express their condolence as well as emotions through different social networks. In order to analyze the public comments on Twitter, an experimental approach is developed based on popular words regarding this pandemic. In this paper, various NLP-based research works are discussed on sentiment analysis, trend prediction, topic modeling, learning mechanisms, etc. Furthermore, the hybrid deep learning models are developed based on the Naïve Bayes sentiment model to predict the sentiment from the collected huge number of Coronavirus-related tweets. After performing the n-gram analysis, the Covid-19 specific words are extracted based on their popularity. The public sentiment trend has been analyzed using the extracted topics related to Covid-19 and the tweets are classified according to their sentiment scores. The distinguished sentiment ratings are assigned to the collected tweets based on their sentiment class. Then **Convo-Sequential** and **Convo-Bidirectional** long-short term networks are trained using fine-grained sentiment-rated tweets to categorize Covid-19 tweets into five different sentiment classes. Finally, our proposed Convo-Sequential and Convo-Bidirectional LSTM models achieved **84.52%** and **85.03%** of validation accuracy respectively for the first phase dataset whereas using the second phase dataset the models obtained the validation accuracy of **86.58%** and **87.22%** respectively.
 
-## Workflow of the Project:
+## Project Workflow
 Here, the proposed system architecture of the project is presented.
 
 ![](https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/Proposed%20Methodology.png)
