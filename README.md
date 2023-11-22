@@ -64,39 +64,36 @@ I calculated the sentiment polarity of each cleaned and pre-processed tweet usin
 This project was done with the following experimental setup:
 
 ⦁ **Hardware Configuration -** 
-    - Processor: Intel Core i7-10750H Processor
-    - Primary Memory: 16GB RAM
-    - Secondary Memory: 1TB SSD
-    - Graphics: Nvidia RTX 2060 6GB GPU
-    - Operating System: Windows 10 Home Edition
+  - Processor: Intel Core i7-10750H Processor
+  - Primary Memory: 16GB RAM
+  - Secondary Memory: 1TB SSD
+  - Graphics: Nvidia RTX 2060 6GB GPU
+  - Operating System: Windows 10 Home Edition
 
 ⦁ **Software Configuration -** 
-    - Programming Language: Python (3.7.3)
-    - IDE: Jupyter Notebook, MS Visual Studio Code, Notepad++
-    - H/W Acceleration Driver: Nvidia Graphics Driver, Nvidia CUDA Development Toolkit 11.2, Nvidia cuDNN 11.2 64-bit
-    - Browser: Microsoft Edge, Google Chrome, Mozilla Firefox, Google Colaboratory, IBM Watson Studio
+  - Programming Language: Python (3.7.3)
+  - IDE: Jupyter Notebook, MS Visual Studio Code, Notepad++
+  - H/W Acceleration Driver: Nvidia Graphics Driver, Nvidia CUDA Development Toolkit 11.2, Nvidia cuDNN 11.2 64-bit
+  - Browser: Microsoft Edge, Google Chrome, Mozilla Firefox, Google Colaboratory, IBM Watson Studio
 
 ⦁ **Python Packages -** 
-    - beautifulsoup4 == 4.7.1
-    - dash == 1.19.0
-    - gensim == 3.8.3
-    - keras == 2.4.3
-    - Markdown == 3.3.4
-    - matplotlib == 3.1.0
-    - nltk == 3.4.4
-    - numpy == 1.16.4
-    - pandas == 1.0.3
-    - plotly == 4.14.3
-    - preprocessor == 1.1.3
-    - seaborn == 0.9.0
-    - scikit-learn == 0.24.1
-    - sklearn == 0.0
-    - tensorflow == 2.4.0
-    - tensorflow-gpu == 2.4.0
-    - text2vec == 0.1.6
-    - tweepy == 3.10.0
-    - tweet-preprocessor == 0.5.0
-    - wordcloud == 1.8.1
+  - beautifulsoup4 == 4.7.1
+  - dash == 1.19.0
+  - gensim == 3.8.3
+  - keras == 2.4.3
+  - matplotlib == 3.1.0
+  - nltk == 3.4.4
+  - numpy == 1.16.4
+  - pandas == 1.0.3
+  - plotly == 4.14.3
+  - preprocessor == 1.1.3
+  - seaborn == 0.9.0
+  - scikit-learn == 0.24.1
+  - tensorflow == 2.4.0
+  - tensorflow-gpu == 2.4.0
+  - tweepy == 3.10.0
+  - tweet-preprocessor == 0.5.0
+  - wordcloud == 1.8.1
 
 *The performance and effectiveness of the codes during the runtime may vary due to any changes in these versions of the following applications and python packages.*
 
