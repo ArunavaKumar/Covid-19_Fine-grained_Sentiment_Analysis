@@ -10,7 +10,7 @@ Millions of lives were affected rapidly throughout the world when the Covid-19 o
 ## Workflow of the Project:
 Here, the proposed system architecture of the project is presented.
 
-!()[https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/Proposed%20Methodology.png]
+![](https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/Proposed%20Methodology.png)
                                  
 ### Important Note
 
@@ -21,7 +21,7 @@ Here, the proposed system architecture of the project is presented.
 
 I streamed live tweets from the twitter after WHO declared Covid-19 as a pandemic. Since this Covid-19 epidemic has affected the entire world, I collected worldwide Covid-19 related English tweets at a rate of almost 10k per day in two phases starting from **August-October, 2020** and **April-June, 2021**. I prepared the first phase dataset of about **489k** tweets collected from **20th August to 20th October 2020**. After one month I again start collecting tweets from the twitter as on that time the pandemic was spreading with its fatal intensity. I collected almost **320k** tweets in the period **April 26 to June 27, 2021** for the second phase dataset.
 
-The datasets areavailable in my Kaggle[https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset] data repository.
+The datasets areavailable in my [Kaggle](https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset) data repository.
 
 
 #### Content
@@ -50,10 +50,10 @@ I pre-processed these collected data by developing a user defined pre-processing
 I calculated the sentiment polarity of each cleaned and pre-processed tweet using the NLTK based Sentiment Analyzer and get the sentiment scores for positive, negative and neutral categories to calculate the compound sentiment score for each tweet. I classified the tweets on the basis of the compound sentiment scores into three different classes i.e., Positive, Negative and Neutral. Then we assigned the sentiment polarity ratings for each polar(positive abd negative) tweet based on the following algorithm-
 
 **Fine-grained Sentiment Classification Algorithm:**
-!()[https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/Fine-grained%20Classification.png]
+![](https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/Fine-grained%20Classification.png)
 
 **Proposed Hybrid Convolutional LSTM model**
-!()[https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/CNN%2BLSTM.png]
+![](https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/CNN%2BLSTM.png)
 
 ### Experimental Setup
 
