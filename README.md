@@ -45,14 +45,18 @@ Finally, I collected **3,20,316** tweets for first phase dataset and **4,89,269*
 
 I pre-processed these collected data by developing a user defined pre-processing function based on NLTK (Natural Language Toolkit, a Python library for NLP). In the first phase it converts all the tweets into lower case. Then it removes all extra white spaces, numbers, special characters, ASCII characters, URLs, punctuations & stop words from the tweets. Then it converts all ‘covid’ words into ‘covid19’ as we already removed all numbers from the tweets. Using stemming the pre-processing function has reduced inflected words to their word stem.
 
+
 #### Sentiment Analysis
 
 I calculated the sentiment polarity of each cleaned and pre-processed tweet using the NLTK based Sentiment Analyzer and get the sentiment scores for positive, negative and neutral categories to calculate the compound sentiment score for each tweet. I classified the tweets on the basis of the compound sentiment scores into three different classes i.e., Positive, Negative and Neutral. Then we assigned the sentiment polarity ratings for each polar(positive abd negative) tweet based on the following algorithm-
 
 **Fine-grained Sentiment Classification Algorithm:**
+
 ![](https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/Fine-grained%20Classification.png)
 
-**Proposed Hybrid Convolutional LSTM model**
+
+#### Proposed Hybrid Convolutional LSTM model
+
 ![](https://github.com/ArunavaKumar/Covid-19_Fine-grained_Sentiment_Analysis/blob/main/Images/CNN%2BLSTM.png)
 
 ### Experimental Setup
@@ -105,7 +109,7 @@ In this repository I provided the Covid-19 datasets (both Phase I and Phase II) 
 - In the `Output Figures` directory, I presented all the outputs from the experimentation on both of the Covid-19 datasets.
 - The `Covid-19 Sentiment Analysis v3.0 (Part I).ipynb` and `Covid-19 Sentiment Analysis v3.0 (Part II).ipynb` jupyter notebooks represent entire analysis for both datasets.
 
-*Please use WinRar or any other Rar extracting softeare to extract the files for the datasets. The MS Visual Studio Code or Notepad++ can be used to open the source codes for better visibility.*
+*The MS Visual Studio Code or Notepad++ can be used to open the source codes for better visibility.*
 
 
 ### Acknowledgements
