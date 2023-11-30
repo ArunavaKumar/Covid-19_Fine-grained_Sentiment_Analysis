@@ -1,4 +1,4 @@
-# Covid-19 Sentiment Analysis on Large-Scale Covid-19 Tweets using NLP and Deep Learning
+# Covid-19 Sentiment Analysis using NLP and Deep Learning
 
 ## Fine-grained Sentiment Analysis on Large-Scale Covid-19 Tweets using Hybrid Convolutional LSTM Based on Naïve Bayes Sentiment Modeling
 
